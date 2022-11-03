@@ -4,9 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-celery = "*"
 django = "*"
-redis = "*"
+django-crontab = "*"
 
 [dev-packages]
 
